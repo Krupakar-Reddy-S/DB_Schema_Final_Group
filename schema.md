@@ -44,11 +44,9 @@
 
 ## Schema Diagram - [DrawSQL link](https://drawsql.app/teams/krupakar-reddy/diagrams/hospital-management-system)
 
-<iframe width="100%" height="500px" style="box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); border-radius:15px;" allowtransparency="true" allowfullscreen="true" scrolling="no" title="Embedded DrawSQL IFrame" frameborder="0" src="https://drawsql.app/teams/krupakar-reddy/diagrams/hospital-management-system/embed"></iframe>
-
-<!-- <p align="center">
+<p align="center">
   <img src="schema.png" alt="Hospital Management System Database Schema" height="900px">
-</p> -->
+</p>
 
 
 ## Use Case Queries
