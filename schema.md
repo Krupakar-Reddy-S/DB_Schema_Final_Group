@@ -42,11 +42,6 @@
 - **Fields:** patient_id, room_id, assignment_date, discharge_date
 - **Indexes:** patient_id, room_id
 
-**Table 8: insurance**
-
-- **Primary Key:** id
-- **Fields:** patient_id, provider, start_date, end_date
-- **Indexes:** patient_id
 
 ## Schema Diagram - [DrawSQL link](https://drawsql.app/teams/krupakar-reddy/diagrams/hospital-management-system)
 
